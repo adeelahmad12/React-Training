@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "author": "Author 1",
+        "content": "This is content for Blog Post 1"
+    },
+    {
+        "id": "2",
+        "author": "Author 2",
+        "content": "This is content for Blog Post 2"
+    },
+    {
+        "id": "3",
+        "author": "Author 3",
+        "content": "This is content for Blog Post 3"
+    },
+    {
+        "id": "4",
+        "author": "Author 4",
+        "content": "This is content for Blog Post 4"
+    }
+]
